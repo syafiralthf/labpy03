@@ -1,8 +1,8 @@
 # Biodata
 
-Nama = Syafira Luthfi Azzahra
+### Nama = Syafira Luthfi Azzahra
 
-Kelas = TI.24.A.4
+### Kelas = TI.24.A.4
 
-NIM = 321410353
+### NIM = 321410353
 
